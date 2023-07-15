@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @nithya1511
+- 👀 I’m interested in software testing ...
+- 🌱 I’m currently learning sql and practising python exercieses ...
+- 📫 How to reach me nithyanithu1511@gmail.com...
+
+<!---
+nithya1511/nithya1511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
